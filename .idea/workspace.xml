@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="756aeb8d-e95b-45f5-ad5d-3e8a256d49c3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/keys.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/server.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/server/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/server/routes/api.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/server/routes/index.js" />
-    </list>
+    <list default="true" id="756aeb8d-e95b-45f5-ad5d-3e8a256d49c3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
