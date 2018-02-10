@@ -1,7 +1,7 @@
 {
   "name": "unichat",
   "version": "1.0.0",
-  "description": "A chat bot for University students",
+  "description": "Universal Chatbot",
   "main": "index.js",
   "scripts": {
     "webpack": "webpack",
